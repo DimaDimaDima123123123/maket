@@ -68,3 +68,43 @@
     .navbar-nav .nav-link:hover {
       color: yellow;
     }
+
+    footer
+    {
+      background-color: rgba(0, 0, 20);
+      min-height: 20vh;
+      color: rgba(255, 255, 255);
+      padding: 3%;
+      opacity: 90%;
+      display: flex;
+      font-size: 1.2em;
+    }
+    footer h4 {
+      color: rgba(255, 255, 0);
+    }
+    .about-us {
+      max-width: 20%;
+    }
+    .contacts {
+      max-width: 40%;
+      margin-left: 19%;
+    }
+    .hyper-pic
+    {
+      min-width: 25%;
+      min-height: 25%;
+      margin-left: 18%;
+      width: 25%;
+      height: 25%;
+    }
+    a
+    {
+      display: inline-block;
+      width: auto;
+      height: auto;
+    }
+    img{
+      max-width: 100%;
+      height: auto;
+    }
+    
